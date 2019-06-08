@@ -1,0 +1,22 @@
+{
+  "name": "anti-american",
+  "version": "1.0.0",
+  "description": "Correct all American spellings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogstandard/anti-american.git"
+  },
+  "keywords": [
+    "humour"
+  ],
+  "author": "Eric D'Addio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bogstandard/anti-american/issues"
+  },
+  "homepage": "https://github.com/bogstandard/anti-american#readme"
+}
